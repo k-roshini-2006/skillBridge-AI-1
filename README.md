@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillPath AI
 
 **Smart India Hackathon (SIH 2026) — AI-Enabled Adaptive Learning Platform for Competency-Gap Identification, Personalized Training, Grounded RAG Tutoring, and Automated Assessment Generation.**
@@ -117,3 +118,6 @@ Visit `http://127.0.0.1:5173`. The Vite server proxies API requests to `http://1
 6. Open **"Study Hub"**, read Array notes, rate the resource to earn +15 XP.
 7. Open **"Achievements"** to see your updated XP rank, unlocked badges, and cohort leaderboard.
 8. Switch accounts to **Teacher** or **Admin** to inspect cohort heatmaps and institutional analytics.
+=======
+# skillBridge-AI-1
+>>>>>>> d221841c8bccd90ab95f08b1c0738ba9003c3f36
